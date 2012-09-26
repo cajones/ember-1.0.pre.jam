@@ -20,5 +20,11 @@
       "url": "git://github.com/emberjs/ember.js.git"
     }
   ],
-  "github": "https://github.com/emberjs/ember.js"
+  "github": "https://github.com/emberjs/ember.js",
+  "contributors": [
+    {
+      "name": "Chris Jones",
+      "github": "https://github.com/ChrisJones0099/ember-1.0.pre.jam"
+    } 
+  ]
 }
