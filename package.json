@@ -1,0 +1,24 @@
+{
+  "name": "ember",
+  "version": "0.1.0",
+  "description": "A framework for creating ambitious web applications.",
+  "homepage": "http://www.emberjs.com/",
+  "jam": {
+    "main": "ember-1.0.pre.min.jam.1.js",
+    "dependencies": {
+      "handlebars": ">=1.0.0-beta.6.jam.1"
+    },
+    "shim": {
+      "deps": ["handlebars"],
+      "exports": "Em"
+    },
+    "include": ["ember-1.0.pre.min.jam.1.js"]
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/emberjs/ember.js.git"
+    }
+  ],
+  "github": "https://github.com/emberjs/ember.js"
+}
