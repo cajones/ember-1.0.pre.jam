@@ -1,10 +1,10 @@
 {
   "name": "ember",
-  "version": "0.1.2-jam.1",
+  "version": "1.0.02-jam.1",
   "description": "A framework for creating ambitious web applications.",
   "homepage": "http://www.emberjs.com/",
   "jam": {
-    "main": "ember-1.0.pre.min.jam.1.js",
+    "main": "ember-1.0.0.pre.2.min-jam.1.js",
     "dependencies": {
       "handlebars": ">=1.0.0-beta.6.jam.1",
       "jquery": "~1.7.1"
@@ -13,7 +13,7 @@
       "deps": ["handlebars", "jquery"],
       "exports": "Em"
     },
-    "include": ["ember-1.0.pre.min.jam.1.js"]
+    "include": ["ember-1.0.0.pre.2.min-jam.1.js"]
   },
   "repositories": [
     {
@@ -25,7 +25,7 @@
   "contributors": [
     {
       "name": "Chris Jones",
-      "github": "https://github.com/ChrisJones0099/ember-1.0.pre.jam"
+      "github": "https://github.com/cajones/ember-1.0.pre.jam"
     } 
   ]
 }
