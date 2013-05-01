@@ -1,6 +1,6 @@
 {
   "name": "ember",
-  "version": "1.0.02-jam.1",
+  "version": "1.0.0-pre.2-jam.1",
   "description": "A framework for creating ambitious web applications.",
   "homepage": "http://www.emberjs.com/",
   "jam": {
